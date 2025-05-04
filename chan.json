@@ -17,6 +17,26 @@
                 "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd",
                 "clearKey": { "c95ed4c44b0b4f7fa1c6ebbbbaab21a1": "47635b8e885e19f2ccbdff078c207058" }
             },
+                     {
+                "name": "GMA 7",
+                "type": "hls",
+                "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+            },
+            {
+                "name": "GTV",
+                "type": "hls",
+                "url": "https://cdn.ganbaruby23.xyz/stream/restream/gtv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+            },
+            {
+                "name": "KAPAMILYA CHANNEL",
+                "type": "hls",
+                "url": "https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+            },
+            {
+                "name": "JEEPNEY TV",
+                "type": "hls",
+                "url": "https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+            },
             {
                 "name": "TFC ",
                 "type": "dash",
@@ -426,11 +446,7 @@
                 "type": "hls",
                 "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?app'name'=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&device'type'=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628"
             },
-            {
-                "name": "Bon appétit",
-                "type": "hls",
-                "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
-            },
+        
             {
                 "name": "3ABN Kids",
                 "type": "hls",
