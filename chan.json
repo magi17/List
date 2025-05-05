@@ -115,11 +115,6 @@
                 "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd",
                 "clearKey": { "9ce58f37576b416381b6514a809bfd8b": "f0fbb758cdeeaddfa3eae538856b4d72" }
             },          
-            {
-    "name": "NICKTOONS",
-    "type": "hls",
-    "url": "http://143.244.60.30/NICKTOONS/index.m3u8"
-  },   
   {
     "name": "TEENNICK",
     "type": "hls",
@@ -149,7 +144,19 @@
         "name": "DISNEY XD",
         "type": "hls",
         "url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
-    },   
+    }, 
+      {
+                "name": "DepEd Channel",
+                "type": "dash",
+                "url": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
+                "clearKey": { "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df" }
+            },
+      {
+                "name": "Knowledge Channel",
+                "type": "dash",
+                "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd",
+                "clearKey": { "0f856fa0412b11edb8780242ac120002": "783374273ef97ad3bc992c1d63e091e7" }
+            },
             {
                 "name": "HBO ",
                 "type": "dash",
@@ -198,12 +205,7 @@
                 "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
                 "clearKey": { "4503cf86bca3494ab95a77ed913619a0": "afc9c8f627fb3fb255dee8e3b0fe1d71" }
             },         
-            {
-                "name": "Rock Entertainment",
-                "type": "dash",
-                "url": "https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd",
-                "clearKey": { "9229814c629b406f8de98d2f23c968a0": "40b9f250455b43b3b2ea6845ab81abca" }
-            },
+            
             {
                 "name": "Thrill",
                 "type": "dash",
@@ -223,24 +225,14 @@
                 "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd",
                 "clearKey": { "71a130a851b9484bb47141c8966fb4a3": "ad1f003b4f0b31b75ea4593844435600" }
             },
-            {
-                "name": "DepEd Channel",
-                "type": "dash",
-                "url": "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd",
-                "clearKey": { "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df" }
-            },
+            
             {
                 "name": "Buko Channel",
                 "type": "dash",
                 "url": "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd",
                 "clearKey": { "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615" }
             },
-            {
-                "name": "Knowledge Channel",
-                "type": "dash",
-                "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd",
-                "clearKey": { "0f856fa0412b11edb8780242ac120002": "783374273ef97ad3bc992c1d63e091e7" }
-            },
+            
             {
                 "name": "Bilyonaryo Channel",
                 "type": "dash",
