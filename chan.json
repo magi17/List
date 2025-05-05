@@ -1,5 +1,13 @@
 [
     {
+        "name": "UUAP",
+        "type": "dash",
+        "url": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd",
+        "clearKey": {
+            "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
+        }
+    },
+    {
         "name": "TV5 ",
         "type": "dash",
         "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd",
