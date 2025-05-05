@@ -119,7 +119,25 @@
     "name": "DISNEY CHANNEL",
     "type": "hls",
     "url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
-  },         
+  },   
+    {
+        "name": "ANIME X HIDIVE",
+        "type": "hls",
+        "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "DISNEY JR.",
+        "type": "mpd",
+        "url": "https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd",
+        "clearKey": {
+            "0f853238412b11edb8780242ac120002": "775a654c0610811ad022329a68884de1"
+        }
+    },
+    {
+        "name": "DISNEY XD",
+        "type": "hls",
+        "url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
+    },      
             {
                 "name": "HBO ",
                 "type": "dash",
