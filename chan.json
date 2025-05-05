@@ -115,6 +115,12 @@
                 "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd",
                 "clearKey": { "9ce58f37576b416381b6514a809bfd8b": "f0fbb758cdeeaddfa3eae538856b4d72" }
             },
+            {
+        "name": "NICK JR.",
+        "type": "mpd",
+        "url": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd",
+        "clearKey": { "bab5c11178b646749fbae87962bf5113": "0ac679aad3b9d619ac39ad634ec76bc8"   }
+    },   
 {
     "name": "DISNEY CHANNEL",
     "type": "hls",
@@ -124,20 +130,12 @@
         "name": "ANIME X HIDIVE",
         "type": "hls",
         "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8"
-    },
-    {
-        "name": "DISNEY JR.",
-        "type": "mpd",
-        "url": "https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd",
-        "clearKey": {
-            "0f853238412b11edb8780242ac120002": "775a654c0610811ad022329a68884de1"
-        }
-    },
+    },    
     {
         "name": "DISNEY XD",
         "type": "hls",
         "url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
-    },      
+    },   
             {
                 "name": "HBO ",
                 "type": "dash",
