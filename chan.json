@@ -1,13 +1,5 @@
 [
     {
-        "name": "UUAP",
-        "type": "dash",
-        "url": "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd",
-        "clearKey": {
-            "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
-        }
-    },
-    {
         "name": "TV5 ",
         "type": "dash",
         "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd",
@@ -506,14 +498,6 @@
         }
     },
     {
-        "name": "Premier Sports",
-        "type": "dash",
-        "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd",
-        "clearKey": {
-            "fc19c98cb9504a0fb78b22fea0a4b814": "ea683112a96d4ae6c32d4ea13923e8c7"
-        }
-    },
-    {
         "name": "Premier Sports 2",
         "type": "dash",
         "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd",
@@ -548,11 +532,6 @@
         "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
     },
     {
-        "name": "CBS Sports HQ",
-        "type": "hls",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?app'name'=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&device'type'=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d"
-    },
-    {
         "name": "Chef Champion",
         "type": "hls",
         "url": "https://bozztv.com/gusa/gusa-chefchampion/index.m3u8"
@@ -566,11 +545,6 @@
         "name": "Cine Life",
         "type": "hls",
         "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
-    },
-    {
-        "name": "America\"s Test Kitchen",
-        "type": "hls",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?app'name'=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&device'type'=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051"
     },
     {
         "name": "BBC Food",
@@ -638,24 +612,9 @@
         "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
     },
     {
-        "name": "AXS TV NOW",
-        "type": "hls",
-        "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
-    },
-    {
-        "name": "MOVIEJOY",
-        "type": "hls",
-        "url": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
-    },
-    {
         "name": "ESPN",
         "type": "hls",
         "url": "http://41.205.93.154/ESPN/index.m3u8"
-    },
-    {
-        "name": "GCTV",
-        "type": "hls",
-        "url": "http://45.32.115.103/live/livestream/index.m3u8"
     },
     {
         "name": "Al Jazeera",
