@@ -5,6 +5,21 @@
         "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
     },
     {
+   "name": "I HEART MOVIES(test)",
+        "type": "hls",
+        "url": "https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
+    },      
+    {
+   "name": "HEART OF ASIA(test)",
+        "type": "hls",
+        "url": "https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
+    },
+    {
+        "name": "HALLYPOP",
+        "type": "hls",
+        "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8"
+    },
+    {
         "name": "TV5 ",
         "type": "dash",
         "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd",
@@ -521,11 +536,7 @@
             "971ebbe2d887476398e97c37e0c5c591": "472aa631b1e671070a4bf198f43da0c7"
         }
     },
-    {
-        "name": "Hallypop",
-        "type": "hls",
-        "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8"
-    },
+    
     {
         "name": "4K Travel TV",
         "type": "hls",
@@ -686,16 +697,7 @@
         "type": "hls",
         "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
     },
-    {
-   "name": "i heart movies(test)",
-        "type": "hls",
-        "url": "https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
-    },      
-{
-   "name": "heart of asia(test)",
-        "type": "hls",
-        "url": "https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
-    },   
+    
     {
    "name": "GMA7 (2 test)",
         "type": "hls",
