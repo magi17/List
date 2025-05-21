@@ -698,13 +698,6 @@
   "name": "NET25 (Widevine)",
   "type": "dash",
   "url": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-  "drm": {
-    "widevine": {
-      "serverUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
-      "licenseHeaders": {
-        "Content-Type": "application/octet-stream"
-      }
-    }
-  }
-    }
+  "license": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+}
 ]
