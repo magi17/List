@@ -4,16 +4,7 @@
         "type": "hls",
         "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
     },
-    {
-   "name": "I HEART MOVIES(test)",
-        "type": "hls",
-        "url": "https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
-    },      
-    {
-   "name": "HEART OF ASIA(test)",
-        "type": "hls",
-        "url": "https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
-    },
+ 
     {
         "name": "HALLYPOP",
         "type": "hls",
@@ -702,5 +693,18 @@
    "name": "GMA7 (2 test)",
         "type": "hls",
         "url": "https://nokotan.anhkz.fr/channel/2353eb89/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e"
-    } 
+    },
+    {
+  "name": "NET25 (Widevine)",
+  "type": "dash",
+  "url": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+  "drm": {
+    "widevine": {
+      "serverUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+      "licenseHeaders": {
+        "Content-Type": "application/octet-stream"
+      }
+    }
+  }
+    }
 ]
