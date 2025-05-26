@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:3220
+#EXTINF:5.000000,
+http://nokotan.anhkz.fr/ts/6833ce8582c6575f87f9964f/582ee6b4.3220.ts?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+#EXTINF:5.000000,
+http://nokotan.anhkz.fr/ts/6833ce8582c6575f87f9964f/582ee6b4.3221.ts?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+#EXTINF:5.000000,
+http://nokotan.anhkz.fr/ts/6833ce8582c6575f87f9964f/582ee6b4.3222.ts?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+#EXTINF:5.000000,
+http://nokotan.anhkz.fr/ts/6833ce8582c6575f87f9964f/582ee6b4.3223.ts?q=0842d25e3217cafb3fddf9cd0dfe0a1e
