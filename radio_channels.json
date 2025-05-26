@@ -1,5 +1,5 @@
 {
-  "version": 2.1,
+  "version": 2.2,
   "channels": [
     {
       "name": "Love Radio",
@@ -128,6 +128,10 @@
     {
       "name": "PH40",
       "url": "https://stream-16.zeno.fm/xdtkcq3f4reuv?zs=DSH-XlK1S8-wz3QJmFY4Sw"
+    },
+    {
+      "name": "DYHP 612 RMN Cebu",
+      "url": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream"
     }
   ]
 }
