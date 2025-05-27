@@ -1,5 +1,5 @@
 {
-  "version": 2.4,
+  "version": 2.5,
   "channels": [
     {
       "name": "Love Radio",
@@ -59,7 +59,7 @@
     },
     {
       "name": "MONSTER RADIO",
-      "url": "https://in icecast.eradioportal.com:8443/monsterrrx"
+      "url": "https://in https://fm2.mark-projects.site/monster/stream.mp3"
     },
     {
       "name": "Wild FM",
