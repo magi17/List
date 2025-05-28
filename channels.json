@@ -1,9 +1,13 @@
 {
-  "version": 2.7,
+  "version": 2.8,
   "channels": [
     {
       "name": "hiyup",
       "url": "www.gago.com.mpe3"
+    },
+    {
+      "name": "bobo",
+      "url": "www.gago.com"
     }
   ]
 }
