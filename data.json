@@ -1,1 +1,25 @@
-[]
+{
+  "version": 1.0,
+  "channels": [
+       {
+        "name": "GMA 7",
+        "type": "hls",
+        "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+    },
+    {
+        "name": "test",
+        "type": "hls",
+        "url": "https://ytgma.mark-projects.site/kapusostream/stream.m3u8"
+    },
+    {
+        "name": "GTV",
+        "type": "hls",
+        "url": "https://cdn.ganbaruby23.xyz/stream/restream/gtv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+    },
+    {
+        "name": "KAPAMILYA CHANNEL",
+        "type": "hls",
+        "url": "https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+    }
+  ]
+}
