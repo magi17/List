@@ -1,9 +1,13 @@
 {
-  "version": 2.7,
+  "version": 2.8,
   "channels": [
     {
       "name": "Wish 107.5",
       "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8"
+    },
+    {
+      "name": "Love Radio",
+      "url": "https:\/\/a8.asurahosting.com:6820\/radio.mp3"
     },
     {
       "name": "Win Radio",
@@ -132,10 +136,6 @@
     {
       "name": "DYHP 612 RMN Cebu",
       "url": "https:\/\/de3.amfmph.com\/ssl\/rmncebu?mp=%2Fstream"
-    },
-    {
-      "name": "Love Radio",
-      "url": "https:\/\/a8.asurahosting.com:6820\/radio.mp3"
     }
   ]
 }
