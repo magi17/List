@@ -1,5 +1,5 @@
 {
-  "version": 2.8,
+  "version": 2.9,
   "channels": [
     {
       "name": "Wish 107.5",
@@ -136,6 +136,10 @@
     {
       "name": "DYHP 612 RMN Cebu",
       "url": "https:\/\/de3.amfmph.com\/ssl\/rmncebu?mp=%2Fstream"
+    },
+    {
+      "name": "DZMM TeleRadyo",
+      "url": "https:\/\/stream.zeno.fm\/yaksrqvb35duv?type=.aac"
     }
   ]
 }
