@@ -1,5 +1,5 @@
 {
-  "version": 2.6,
+  "version": 2.7,
   "channels": [
     {
       "name": "Wish 107.5",
@@ -132,6 +132,10 @@
     {
       "name": "DYHP 612 RMN Cebu",
       "url": "https:\/\/de3.amfmph.com\/ssl\/rmncebu?mp=%2Fstream"
+    },
+    {
+      "name": "Love Radio",
+      "url": "https:\/\/a8.asurahosting.com:6820\/radio.mp3"
     }
   ]
 }
