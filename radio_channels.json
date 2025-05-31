@@ -2,10 +2,6 @@
   "version": 2.9,
   "channels": [
     {
-      "name": "Wish 107.5",
-      "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8"
-    },
-    {
       "name": "Love Radio",
       "url": "https:\/\/a8.asurahosting.com:6820\/radio.mp3"
     },
