@@ -1,9 +1,5 @@
 [
-    {
-        "name": "GMA 7",
-        "type": "hls",
-        "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
-    },
+    
  
     {
         "name": "HALLYPOP",
@@ -18,11 +14,7 @@
             "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
         }
     },
-    {
-        "name": "KAPAMILYA CHANNEL",
-        "type": "hls",
-        "url": "https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
-    },
+    
     {
         "name": "A2Z ",
         "type": "dash",
@@ -32,11 +24,6 @@
         }
     },
     {
-        "name": "GTV",
-        "type": "hls",
-        "url": "https://cdn.ganbaruby23.xyz/stream/restream/gtv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
-    },
-    {
         "name": "GMA Pinoy TV ",
         "type": "dash",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd",
@@ -44,11 +31,7 @@
             "c95ed4c44b0b4f7fa1c6ebbbbaab21a1": "47635b8e885e19f2ccbdff078c207058"
         }
     },
-    {
-        "name": "JEEPNEY TV",
-        "type": "hls",
-        "url": "https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
-    },
+    
     {
         "name": "TFC ",
         "type": "dash",
