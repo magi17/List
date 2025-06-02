@@ -148,6 +148,10 @@
     {
       "name": "PLAY FM 99.5",
       "url": "https:\/\/play995.radioca.st\/stream\/;"
+    },
+    {
+      "name": "DZBB SUPER RADIO",
+      "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8"
     }
   ]
 }
