@@ -1,5 +1,5 @@
 {
-  "version": 3.3,
+  "version": 3.4,
   "channels": [
     {
       "name": "Love Radio",
@@ -10,7 +10,11 @@
       "url": "https:\/\/stream.zeno.fm\/2ss1hgnu6hhvv"
     },
     {
-      "name": "Barangay LS",
+      "name": "Barangay LS 97.1 DWLS FM Manila",
+      "url": "https://magic.radioca.st/stream"
+    },
+    {
+      "name": "Barangay Love Story",
       "url": "https:\/\/stream.zeno.fm\/dphe9050afhvv"
     },
     {
