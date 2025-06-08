@@ -1,11 +1,12 @@
 [
-    
- 
     {
-        "name": "HALLYPOP",
-        "type": "hls",
-        "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8"
-    },
+                "name": "KAPAMILYA CHANNEL ",
+                "type": "dash",
+                "url": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
+                "clearKey": { "bd17afb5dc9648a39be79ee3634dd4b8": "3ecf305d54a7729299b93a3d69c02ea5" }
+            },
+ 
+    
     {
         "name": "TV5 ",
         "type": "dash",
@@ -437,6 +438,11 @@
         "clearKey": {
             "22ff2347107e4871aa423bea9c2bd363": "c6e7ba2f48b3a3b8269e8bc360e60404"
         }
+    },
+    {
+        "name": "HALLYPOP",
+        "type": "hls",
+        "url": "https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8"
     },
     {
         "name": "Kix",
