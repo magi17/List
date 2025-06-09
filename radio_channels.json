@@ -1,5 +1,5 @@
 {
-  "version": 3.4,
+  "version": 3.5,
   "channels": [
     {
       "name": "Love Radio",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Barangay LS 97.1 DWLS FM Manila",
-      "url": "https://magic.radioca.st/stream"
+      "url": "https:\/\/magic.radioca.st\/stream"
     },
     {
       "name": "Barangay Love Story",
@@ -156,6 +156,10 @@
     {
       "name": "DZBB SUPER RADIO",
       "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8"
+    },
+    {
+      "name": "KISS FM KILIG (MANILA)",
+      "url": "https:\/\/sc.kissfmkilig.net\/proxy\/kissfmkilig\/stream"
     }
   ]
 }
