@@ -1,5 +1,5 @@
 {
-  "version": 3.5,
+  "version": 3.6,
   "channels": [
     {
       "name": "Love Radio",
@@ -160,6 +160,10 @@
     {
       "name": "KISS FM KILIG (MANILA)",
       "url": "https:\/\/sc.kissfmkilig.net\/proxy\/kissfmkilig\/stream"
+    },
+    {
+      "name": "LOVE RADIO LUCENA",
+      "url": "https:\/\/loveradiolucena.radioca.st\/;"
     }
   ]
 }
