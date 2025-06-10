@@ -168,6 +168,10 @@
     {
       "name": "ONE FM",
       "url": "https:\/\/cast.tunzilla.com\/http:\/\/139.135.133.98:88\/broadwave.mp3"
+    },
+    {
+      "name": "Brigada News FM Cebu City - 90.7 FM",
+      "url": "https:\/\/cebustream.brigadanews.ph\/"
     }
   ]
 }
