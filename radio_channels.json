@@ -1,5 +1,5 @@
 {
-  "version": 3.7,
+  "version": 3.8,
   "channels": [
     {
       "name": "Love Radio",
@@ -172,6 +172,10 @@
     {
       "name": "Brigada News FM Cebu City - 90.7 FM",
       "url": "https:\/\/cebustream.brigadanews.ph\/"
+    },
+    {
+      "name": "Pinoy Rap Radio (Manila)",
+      "url": "https:\/\/stream.zeno.fm\/0cdp55nqam0uv"
     }
   ]
 }
