@@ -1,5 +1,5 @@
 {
-  "version": 3.8,
+  "version": 3.9,
   "channels": [
     {
       "name": "Love Radio",
@@ -176,6 +176,10 @@
     {
       "name": "Pinoy Rap Radio (Manila)",
       "url": "https:\/\/stream.zeno.fm\/0cdp55nqam0uv"
+    },
+    {
+      "name": "Power Cebu City - 89.1 FM",
+      "url": "https:\/\/stream-152.zeno.fm\/amx5h6ev1reuv"
     }
   ]
 }
