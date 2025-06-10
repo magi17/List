@@ -1,5 +1,5 @@
 {
-  "version": 3.6,
+  "version": 3.7,
   "channels": [
     {
       "name": "Love Radio",
@@ -164,6 +164,10 @@
     {
       "name": "LOVE RADIO LUCENA",
       "url": "https:\/\/loveradiolucena.radioca.st\/;"
+    },
+    {
+      "name": "ONE FM",
+      "url": "https:\/\/cast.tunzilla.com\/http:\/\/139.135.133.98:88\/broadwave.mp3"
     }
   ]
 }
