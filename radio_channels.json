@@ -1,5 +1,5 @@
 {
-  "version": 3.9,
+  "version": 4,
   "channels": [
     {
       "name": "Love Radio",
@@ -184,6 +184,10 @@
     {
       "name": "Yes! Cebu City - 91.5 FM",
       "url": "https:\/\/yesfmcebu.radioca.st\/;stream.mp3"
+    },
+    {
+      "name": "MemoRieS FM Cebu City - 89.9 FM",
+      "url": "https:\/\/cast.tunzilla.com\/http:\/\/s5.reliastream.com:7134\/stream"
     }
   ]
 }
