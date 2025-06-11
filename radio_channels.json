@@ -1,5 +1,5 @@
 {
-  "version": 4.2,
+  "version": 4.3,
   "channels": [
     {
       "name": "Love Radio",
@@ -188,6 +188,10 @@
     {
       "name": "Love Radio Cebu City - 97.9 FM",
       "url": "https:\/\/loveradiocebu.radioca.st\/;"
+    },
+    {
+      "name": "DYKC RPN Cebu City - 675 AM",
+      "url": "https:\/\/stream.zeno.fm\/4z84ugyd9yzuv"
     }
   ]
 }
