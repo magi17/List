@@ -1,5 +1,5 @@
 {
-  "version": 4.1,
+  "version": 4.2,
   "channels": [
     {
       "name": "Love Radio",
@@ -188,6 +188,10 @@
     {
       "name": "MemoRieS FM Cebu City - 89.9 FM",
       "url": "http:\/\/s5.reliastream.com:7134\/stream"
+    },
+    {
+      "name": "Love Radio Cebu City - 97.9 FM",
+      "url": "https:\/\/loveradiocebu.radioca.st\/;"
     }
   ]
 }
