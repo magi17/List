@@ -1,1 +1,9 @@
-[]
+{
+  "channels": [
+    {
+      "name": "tae",
+      "url": "www.mamamo.com"
+    }
+  ],
+  "version": "1.0"
+}
