@@ -1,5 +1,15 @@
 [
     {
+        "name": "HEART OF ASIA",
+        "type": "hls",
+        "url": "https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
+    },
+    {
+        "name": "I HEART MOVIES",
+        "type": "hls",
+        "url": "https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
+    },
+    {
                 "name": "KAPAMILYA CHANNEL ",
                 "type": "dash",
                 "url": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
