@@ -1,5 +1,20 @@
 [
     {
+        "name": "GMA",
+        "type": "hls",
+        "url": " https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
+    },
+    {
+        "name": "GMA NEWS TV",
+        "type": "hls",
+        "url": "https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
+    },
+    {
+        "name": "GMA LIFE TV",
+        "type": "hls",
+        "url": " https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
+    },
+    {
         "name": "HEART OF ASIA",
         "type": "hls",
         "url": "https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7"
